@@ -21,4 +21,8 @@ public class Calculator {
 	public void nirmala(){
 		
 	}
+	
+	public void a(){
+		
+	}
 }
