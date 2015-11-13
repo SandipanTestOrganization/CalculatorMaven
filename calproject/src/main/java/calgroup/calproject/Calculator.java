@@ -29,4 +29,8 @@ public class Calculator {
 	public void cccc(){
 	
 	}
+	
+	public void bbbb(){
+		
+	}
 }
