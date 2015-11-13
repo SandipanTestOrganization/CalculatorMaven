@@ -13,7 +13,12 @@ public class Calculator {
 	public int Div(int a, int b){
 		return a/b;
 	}
-	public void a(){
+	public void  b(){
 		
 	}
+<<<<<<< HEAD
+=======
+
+	
+>>>>>>> refs/remotes/origin/DevBranch
 }
