@@ -16,9 +16,4 @@ public class Calculator {
 	public void  b(){
 		
 	}
-<<<<<<< HEAD
-=======
-
-	
->>>>>>> refs/remotes/origin/DevBranch
 }
