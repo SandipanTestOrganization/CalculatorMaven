@@ -10,27 +10,8 @@ public class Calculator {
 		return a-b;
 	}
 	
-	public int Exp(){
-		return 0;
-	}
-
 	public int Div(int a, int b){
 		return a/b;
 	}
 	
-	public void nirmala(){
-		
-	}
-	
-	public void a(){
-		
-	}
-	
-	public void cccc(){
-	
-	}
-	
-	public void bbbb(){
-		
-	}
 }
