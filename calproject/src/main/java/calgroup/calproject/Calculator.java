@@ -16,7 +16,9 @@ public class Calculator {
 	public void a(){
 		
 	}
-	
+	public void b(){
+		
+	}
 	
 	
 }
